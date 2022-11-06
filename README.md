@@ -4,7 +4,7 @@ Intermediate BackEnd Programmer
 
 
 - 🔭 I’m currently working on Microservices Backend
-- 🌱 I’m currently learning Delphi, GoLang and Ren'py
+- 🌱 I’m currently learning Delphi, Kotlin and Ren'py
 
 
 <!-- BLOG-POST-LIST:START -->
